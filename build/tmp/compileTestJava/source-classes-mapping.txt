@@ -1,0 +1,2 @@
+ru/netology/CardDeliveryTest.java
+ ru.netology.CardDeliveryTest
